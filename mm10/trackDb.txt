@@ -1,5 +1,5 @@
 track Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_TFs_Motifs_Annotations
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/datasets/bbd44e69cb8906b56021c568dc2945dc/display?to_ext=bigbed
 shortLabel SPECS:GENE.ID|COLOR:FPKM|FILTER:FPKM
 longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_E11.5_TFs_Motifs_Annotations_mm10_Mouse_Genome_reference
 itemRgb on
