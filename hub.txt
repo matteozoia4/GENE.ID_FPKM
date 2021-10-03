@@ -1,0 +1,5 @@
+hub Mouse Heart E11.5 TFs Motifs mm10 Annotations 
+shortLabel mm10 Annotations of TFs motifs activs in developmental mouse heart at E11.5 [SPECS:GENE.ID|COLOR:FPKM|FILTER:FPKM]
+longLabel Provider : Osterwalder Lab, University of Bern - Iros Barozzi, Medical University of Vienna / Sample : Barbara Wold Lab Caltech - polyA plus RNA-seq Assay - Experiment summary for ENCSR6910PQ - www.encodeproject.org/experiments/ENCSR6910P 
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch

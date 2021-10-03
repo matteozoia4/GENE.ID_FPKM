@@ -1,0 +1,9 @@
+track Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_TFs_Motifs_Annotations
+bigDataUrl 
+shortLabel SPECS:GENE.ID|COLOR:FPKM|FILTER:FPKM
+longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_E11.5_TFs_Motifs_Annotations_mm10_Mouse_Genome_reference
+itemRgb on
+type bigBed 9 .
+    filterText.name *
+    visibility squish
+    bedNameLabel Motif specs
